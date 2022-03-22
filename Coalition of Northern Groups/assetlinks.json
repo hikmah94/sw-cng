@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "ng.cng.mobileapp",
+                     "sha256_cert_fingerprints": ["B5:AA:0D:5F:44:C1:5F:77:E4:F5:43:4C:3D:2D:03:B4:3A:B7:E2:18:0B:06:92:C8:27:FF:18:6D:98:70:65:DB"] }
+      }
+]

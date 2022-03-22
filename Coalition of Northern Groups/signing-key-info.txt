@@ -1,0 +1,10 @@
+Keep this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
+
+Key store file: signing.keystore
+Key store password: p4SKT9sJyW4N
+Key alias: my-key-alias
+Key password: fxHmzvH3yDBz
+Signer's full name: Coalition... Admin
+Signer's organization: Coalition of Northern Groups (CNG)
+Signer's organizational unit: Engineering
+Signer's country code: US
